@@ -16,3 +16,9 @@ Topluluk kanallarimiza katilmak icin:
 
 ## Kurulum
 Kurulumlar icin ilgili projelerin readme dosyasina goz atabilirsiniz.
+
+## Katkıda Bulunanlar
+
+<a href="https://github.com/ayyucedemirbas/TurkeyLearningInitiative/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ayyucedemirbas/TurkeyLearningInitiative" />
+</a>
