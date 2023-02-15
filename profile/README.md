@@ -1,9 +1,9 @@
 # Turkey Learning Initiative
 
-Turkiye Egitim Inisiyatifi online egitim surecinde ogrencilerin kaynak yetersizliklerini gidermek amaciyla, acik kaynak topluluklari tarafindan desteklenen ve gelistirilen bir ders notu paylasma platformudur.
+Türkiye Eğitim İnisiyatifi, online eğitim sürecinde öğrencilerin kaynak yetersizliklerini gidermek amacıyla, açık kaynak toplulukları tarafindan desteklenen ve geliştirilen bir ders notu paylaşma platformudur.
 
-## Topluluk ve Proje Yonetimi
-Topluluk kanallarimiza katilmak icin:
+## Topluluk ve Proje Yönetimi
+Topluluk kanallarımıza katılmak için:
  - [Discord](https://discord.gg/UCvcNAy7)
  - [Trello](https://trello.com/invite/userworkspace18925297/ATTId48edcea4fdd3ba69cdf2afb77b35206CF14302D)
 
@@ -15,4 +15,4 @@ Topluluk kanallarimiza katilmak icin:
 - AWS
 
 ## Kurulum
-Kurulumlar icin ilgili projelerin readme dosyasina goz atabilirsiniz.
+Kurulumlar için ilgili projelerin readme dosyasına göz atabilirsiniz.
